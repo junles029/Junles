@@ -1,0 +1,7 @@
+将 ffmpeg 解压到以下目录：
+
+tools/ffmpeg/bin/
+  ffmpeg.exe
+  ffprobe.exe
+
+打包后的便携版也遵循相同目录结构。
